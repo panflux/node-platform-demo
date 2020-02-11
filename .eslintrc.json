@@ -1,0 +1,23 @@
+{
+    "extends": [
+        "eslint:recommended"
+    ],
+    "env": {
+        "node": true,
+        "es6": true
+    },
+    "rules": {
+        "indent": ["error", 4],
+        "max-len": ["error", {
+            "code": 125,
+            "comments": 200,
+            "ignoreUrls": true,
+            "ignoreStrings": true,
+            "ignoreTemplateLiterals": true,
+            "ignoreRegExpLiterals": true
+        }],
+        "new-cap": 0,
+        "no-console": 1,
+        "no-unused-vars": "warn"
+    }
+}

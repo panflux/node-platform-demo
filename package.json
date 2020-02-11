@@ -1,0 +1,21 @@
+{
+  "name": "@panflux/demo-platform",
+  "version": "1.0.0",
+  "description": "Demo platform implementation for Panflux",
+  "main": "linux.js",
+  "repository": "git@github.com:panflux/node-platform-demo.git",
+  "author": "Niels Keurentjes <niels.keurentjes@omines.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "NODE_ENV=development test-platform",
+    "lint": "eslint --fix ."
+  },
+  "dependencies": {
+    "@panflux/platform": "^0.3.3",
+    "systeminformation": "^4.2.1"
+  },
+  "devDependencies": {
+    "@panflux/platform-sdk": "^0.2.0",
+    "eslint": "^6.8.0"
+  }
+}

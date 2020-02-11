@@ -1,0 +1,20 @@
+name: demo
+friendly_name: Panflux Demo Platform
+
+#dependencies:
+#    external:
+#        - npm-dependencies
+#    native:
+#        - os
+
+types:
+    demo_entity:
+        attributes:
+            number: int
+
+        properties:
+            random: float
+
+        events:
+            ping:
+                random: float
