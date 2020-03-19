@@ -15,7 +15,7 @@
     "systeminformation": "^4.2.1"
   },
   "devDependencies": {
-    "@panflux/platform-sdk": "0.2.0",
+    "@panflux/platform-sdk": "0.2.2",
     "eslint": "6.8.0"
   }
 }
