@@ -11,11 +11,11 @@
     "lint": "eslint --fix ."
   },
   "dependencies": {
-    "@panflux/platform": "^0.3.3",
-    "systeminformation": "^4.2.1"
+    "@panflux/platform": "^0.3.15",
+    "systeminformation": "^4.26.1"
   },
   "devDependencies": {
-    "@panflux/platform-sdk": "0.2.4",
-    "eslint": "6.8.0"
+    "@panflux/platform-sdk": "0.2.5",
+    "eslint": "7.0.0"
   }
 }
