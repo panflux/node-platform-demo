@@ -16,6 +16,6 @@
   },
   "devDependencies": {
     "@panflux/platform-sdk": "0.2.5",
-    "eslint": "7.0.0"
+    "eslint": "7.3.1"
   }
 }
