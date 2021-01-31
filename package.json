@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@panflux/platform": "^0.4.6",
-    "systeminformation": "^4.30.11"
+    "systeminformation": "^5.0.0"
   },
   "devDependencies": {
     "@panflux/platform-sdk": "0.2.9",
